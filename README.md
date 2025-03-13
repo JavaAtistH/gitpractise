@@ -1,2 +1,2 @@
 # gitpractise
-git企业级练习
+git练习
